@@ -1,1 +1,2 @@
-echo "#Practicing Git" > README.md
+#practice Git
+这是我的git练习本
